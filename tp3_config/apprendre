@@ -1,0 +1,5 @@
+http://localhost:8222/application/master // detail file configuration #application.properties
+
+http://localhost:8222/company-service/master // configuration for micro-service company-service parametters file
+
+NB: a la place "master on peut ce qu'on veut"

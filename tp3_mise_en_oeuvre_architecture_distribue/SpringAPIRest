@@ -1,0 +1,2 @@
+http://localhost:8200/companies?page=0&size=3 // affichage page
+http://localhost:8200/companies?page=0&size=3&sort=price,desc // trie desc "prix du produit"
